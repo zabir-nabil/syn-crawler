@@ -1,0 +1,13 @@
+{
+  "name": "syn-crawler",
+  "version": "0.0.1",
+  "description": "Synonym crawler, using http://www.synonym.com/ , for Amazon Alexa skill project.",
+  "main": "syn_crawler.js",
+  "author": "Zabir",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  }
+}
